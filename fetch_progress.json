@@ -1,0 +1,14 @@
+{
+    "current_offset": 1000000,
+    "current_base_page": 0,
+    "current_file_number": 3,
+    "addresses_in_current_file": 0,
+    "total_addresses": 240000000,
+    "current_index_position": 0,
+    "completed_pages": {
+        "0": 1000000
+    },
+    "last_file_numbers": {
+        "0": 3
+    }
+}
